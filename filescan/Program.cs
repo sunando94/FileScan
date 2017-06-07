@@ -10,7 +10,7 @@ namespace filescan
 {
     class FileSearch
     {
-        private string inputPath;
+        private string inputPath;    
         private string outputPath;
         private List<string> inputFiles; 
         private List<string> outputFiles;
