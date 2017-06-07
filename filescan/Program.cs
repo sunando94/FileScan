@@ -12,7 +12,7 @@ namespace filescan
     {
         private string inputPath;
         private string outputPath;
-        private List<string> inputFiles;
+        private List<string> inputFiles; 
         private List<string> outputFiles;
         public FileSearch(string inputPath, string outputPath)
         {
